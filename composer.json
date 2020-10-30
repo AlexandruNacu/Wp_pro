@@ -1,0 +1,13 @@
+{
+    "name": "wpdigital/project",
+    "description": "woocommerce courier plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AlexandruNacu",
+            "email": "alexandrunacu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
